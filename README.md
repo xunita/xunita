@@ -9,15 +9,15 @@ I like to use Nuxt.js for my front-end projects because it offers a solid struct
 
 Whether you need a new application, a revamp of an existing application, or need to strengthen your development team, or even just to say hello, feel free to contact me. I am always open to new opportunities and collaborations.
 
-Feel free to [**contact me**](https://yayasopegue.netlify.app/#contact) for anything or you can just say Hello 👋.
+Feel free to [**contact me**](https://yayasopeguesoro.space/#contact) for anything or you can just say Hello 👋.
 
 ## My portfolio website 
 
-[![Yaya Sopegue Soro portfolio home page](https://yayasopegue.netlify.app/images/yayasopeguesoro.png)](https://yayasopegue.netlify.app/)
+[![Yaya Sopegue Soro portfolio home page](https://yayasopeguesoro.space/images/yayasopeguesoro.png)](https://yayasopeguesoro.space/)
 
 ## Send Me a message
 
-[![Yaya Sopegue Soro portfolio contact section](https://yayasopegue.netlify.app/images/contact.png)](https://yayasopegue.netlify.app/#contact)
+[![Yaya Sopegue Soro portfolio contact section](https://yayasopeguesoro.space/images/contact.png)](https://yayasopeguesoro.space/#contact)
 
 ## Socials
 
