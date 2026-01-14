@@ -9,6 +9,13 @@ I like to use Nuxt.js for my front-end projects because it offers a solid struct
 
 Whether you need a new application, a revamp of an existing application, or need to strengthen your development team, or even just to say hello, feel free to contact me. I am always open to new opportunities and collaborations.
 
+How I work on a requirement, a specific feature, or a complete application (from scratch or not):
+I analyze your needs / I conduct a study of existing solutions.
+I formally specify your requirements or identify the shortcomings of other solutions that could be addressed by your solution.
+I design your application / system / database using use cases, and I define the relationships between the actors of your system / application.
+I develop your application according to the previous steps, including unit and integration tests.
+I deploy your application with the provider of your choice (which can be yourself), then I ensure application maintenance, preventive maintenance, and evolutionary maintenance.
+
 Feel free to [**contact me**](https://yayasopeguesoro.space/#contact) for anything or you can just say Hello 👋.
 
 ## My portfolio website 
@@ -23,11 +30,9 @@ Feel free to [**contact me**](https://yayasopeguesoro.space/#contact) for anythi
 
 You can also follow me on these social networks if you'd like to 😊.
 
-**[X][]** •
 **[Github][]** •
 **[LinkedIn][]**
 
-[X]: https://www.x.com/yayasopegue
 [GitHub]: https://github.com/xunita
 [LinkedIn]: https://linkedin.com/in/sopoude
 
