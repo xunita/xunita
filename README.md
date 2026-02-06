@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Yaya Sopegue Soro
 
-My name is Yaya Sopegue Soro. I am a fullstack developer living in France in the city of Evry-Courcouronnes, with skills in data analysis and design. I am passionate about roller skating, reading, and solving problems with code.
+My name is Yaya Sopegue Soro. I am a software engineer living in France in the city of Evry-Courcouronnes, with skills in data analysis and design. I am passionate about roller skating, reading, and solving problems with code.
 My last professional experience was at Dassault Systèmes as a fullstack developer. I worked on the revamp of the 3DNotification Center, a notification management application for **3DEXPERIENCE** applications. A very enriching experience as I was able to learn a lot of new technologies (legacy and new) and work in a team in an agile and above all multicultural environment.
 My passion for web development started with the discovery of the Vue.js JavaScript framework. Since then, I have deepened my knowledge in front-end and back-end development by working on various personal and professional projects. I enjoy creating high-performance and intuitive web applications that offer an excellent user experience and, above all, meet the needs for which they are designed.
 
